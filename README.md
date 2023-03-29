@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thcing
+- 👋 Hi, I’m @thseeding
 - 👀 Just someone looking to write something useful
 - 🌱 Learning python and soon to be javascript
 - 💞️ I’m looking to collaborate on my project
